@@ -1,0 +1,17 @@
+{
+    "name": "carlos/tiendaw",
+    "type": "project",
+    "require": {
+        "noahbuscher/macaw": "dev-master",
+        "victorjfg/dawfony": "dev-master",
+		"twbs/bootstrap": "dev-master"
+    },
+    "license": "copyright",
+    "authors": [
+        {
+            "name": "1web914",
+            "email": "carlos_fmartinez@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
